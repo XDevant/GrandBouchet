@@ -1,0 +1,14 @@
+* {
+    background-color:#d0d0d0;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0;
+}
+
+section {
+    display: flex;
+}
+
+footer {
+    
+}
