@@ -2,6 +2,24 @@
     background-color:#d0d0d0;
     box-sizing: border-box;
     text-align: center;
+    margin: 10px 10px 0 0;
+}
+
+header a {
+    float: right;
+}
+
+main {
+    display: flex;
+    width: 100%;
+}
+
+nav {
+    width: 20%;
+}
+
+main div {
+    width: 80%;
     margin: 0;
 }
 
@@ -9,6 +27,21 @@ section {
     display: flex;
 }
 
-footer {
-    
+article {
+    width: 80%;
+}
+
+aside {
+    width: 20%;
+}
+
+figure {
+    display: flex;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer div {
+    float: left;
 }
